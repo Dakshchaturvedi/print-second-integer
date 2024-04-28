@@ -1,7 +1,5 @@
 #include <iostream>
-
 using namespace std;
-
 int main() {
   int list[] = {4, 6, 19, 12, 12};
   int size = sizeof(list) / sizeof(list[0]);
